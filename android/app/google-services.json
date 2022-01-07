@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058983925711",
+    "firebase_url": "https://annur-busana-collection.firebaseio.com",
+    "project_id": "annur-busana-collection",
+    "storage_bucket": "annur-busana-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058983925711:android:b5ba00d9a7eb5bbd0ca4ba",
+        "android_client_info": {
+          "package_name": "com.example.annurbusana_application_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058983925711-an6tq0g48sjpru3sa1sd3v7rr9m272dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD82uupIQeYRpFH_vNG9nDkbfH6wjv3x1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058983925711-an6tq0g48sjpru3sa1sd3v7rr9m272dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
